@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 #include<stdlib.h>
 
  int Login,logintest,returnlobby,switchcase1(),Login1(),Register1(),password[2],username[2];
